@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('C:/Users/behip/Downloads/sega-logo-font-cufonfonts-webfont/SEGA.woff') format('woff');
+    }
+
+    h1{
+        font-family: 'SEGA LOGO FONT';
+        font-weight: 200;
+        color: #fcfcfc;
+        text-shadow: 2px 2px rgb(42, 163, 113);
+
+    }
